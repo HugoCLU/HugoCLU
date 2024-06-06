@@ -1,3 +1,1 @@
 - 👋 Hi, I’m @HugoCLU
-- 👀 I’m interested in game and web development
-- 🌱 I’m currently working on a Pokemon game with Pygame
